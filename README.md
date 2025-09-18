@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>0.4 GPA Activities</title>
   <style>
     body {
